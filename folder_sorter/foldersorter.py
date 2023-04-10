@@ -1,5 +1,6 @@
 import os
 import shutil
+import sys
 
 images = ['.jpeg', '.png', '.jpg', '.svg']
 video = ['.avi', '.mp4', '.mov', '.mkv']
