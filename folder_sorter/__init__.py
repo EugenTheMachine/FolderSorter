@@ -1,3 +1,3 @@
-from utility.folder_sorter.foldersorter import sortFolder
+from folder_sorter.foldersorter import sortFolder
 
 __all__ = ['sortFolder']
