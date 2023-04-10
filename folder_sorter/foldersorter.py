@@ -92,4 +92,4 @@ def sortFolder(foldername: str):
             # by Yevhen Ponomarov
     eraseEmptyFolders(foldername)
 # by Yevhen Ponomarov
-sortFolder(PATH)
+sortFolder(sys.argv[1])
