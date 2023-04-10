@@ -10,6 +10,5 @@ setup(
     license='MIT',
     packages=['folder_sorter'],
     install_requires=['markdown'],
-    entry_points={'console_scripts': ['sortFolder =
-    folder_sorter.foldersorter:sortFolder']}
+    entry_points={'console_scripts': ['sortFolder = folder_sorter.foldersorter:sortFolder']}
 )
